@@ -5,7 +5,7 @@ from authoriting import Authoritize
 
 
 class Bank:
-    #woooooo
+    #yeah boyyy
     def __init__(self):
         self.__accounts = {}
 
